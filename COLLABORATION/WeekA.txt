@@ -1,0 +1,298 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.930
+Divya Sai Sukanya Indala: opportunities,
+
+2
+00:00:01.930 --> 00:00:03.760
+Shiva Kumar Chary Valaboju: Hi, Divya, how are you?
+
+3
+00:00:04.540 --> 00:00:06.429
+Divya Sai Sukanya Indala: Hi, I'm good, how are you?
+
+4
+00:00:06.430 --> 00:00:07.359
+Shiva Kumar Chary Valaboju: Hi, dear.
+
+5
+00:00:07.520 --> 00:00:09.840
+Shiva Kumar Chary Valaboju: How is everything's going on good?
+
+6
+00:00:09.840 --> 00:00:11.000
+Divya Sai Sukanya Indala: Yeah, it's good.
+
+7
+00:00:11.170 --> 00:00:15.409
+Shiva Kumar Chary Valaboju: Yeah, so… yeah, mine also, everything's going good.
+
+8
+00:00:15.670 --> 00:00:19.579
+Shiva Kumar Chary Valaboju: So, did you have a look at the group project for info?
+
+9
+00:00:20.100 --> 00:00:22.010
+Divya Sai Sukanya Indala: Oh, yeah, I did. You?
+
+10
+00:00:22.350 --> 00:00:24.310
+Shiva Kumar Chary Valaboju: Yeah, it looks very big, right?
+
+11
+00:00:24.310 --> 00:00:28.979
+Divya Sai Sukanya Indala: Yes, it is. So, did you understand that the bag got stuck in some…
+
+12
+00:00:29.690 --> 00:00:34.140
+Divya Sai Sukanya Indala: Some point, like, can you explain, like, what should we have to do?
+
+13
+00:00:34.910 --> 00:00:47.419
+Shiva Kumar Chary Valaboju: Yeah, it looks very different from the previous ones. So, I think, we need to do two biases, like which we have done for Project 2 and Project 3, data bias and algorithm bias.
+
+14
+00:00:48.320 --> 00:00:53.780
+Shiva Kumar Chary Valaboju: So I think he gave us a data set, and I think we need to,
+
+15
+00:00:54.120 --> 00:00:58.300
+Shiva Kumar Chary Valaboju: Explore more from the original data sources he gave.
+
+16
+00:00:58.770 --> 00:00:59.400
+Divya Sai Sukanya Indala: Yes.
+
+17
+00:00:59.400 --> 00:01:02.640
+Shiva Kumar Chary Valaboju: for our initial analysis, so I think,
+
+18
+00:01:02.990 --> 00:01:12.879
+Shiva Kumar Chary Valaboju: We need to do the data he gave, and from the external data also, maybe… I will look at them, and I will also get back to you. If you find them also, just let me know.
+
+19
+00:01:13.300 --> 00:01:18.619
+Divya Sai Sukanya Indala: Yes, yes. So we have to form the dataset, like, similar datasets or something like that?
+
+20
+00:01:18.620 --> 00:01:20.369
+Shiva Kumar Chary Valaboju: Yeah, he gave some,
+
+21
+00:01:20.720 --> 00:01:26.049
+Shiva Kumar Chary Valaboju: data sources in the documentation, so I think we need to have a look at them.
+
+22
+00:01:26.740 --> 00:01:28.090
+Divya Sai Sukanya Indala: Hmm, okay.
+
+23
+00:01:28.090 --> 00:01:28.690
+Shiva Kumar Chary Valaboju: Yeah.
+
+24
+00:01:28.690 --> 00:01:35.520
+Divya Sai Sukanya Indala: So then, again, we have to do a something, data bias and algorithmic bias on, right?
+
+25
+00:01:35.520 --> 00:01:36.430
+Shiva Kumar Chary Valaboju: Yeah.
+
+26
+00:01:36.430 --> 00:01:39.300
+Divya Sai Sukanya Indala: Yeah, and also we have to combat them at last.
+
+27
+00:01:39.460 --> 00:01:40.989
+Shiva Kumar Chary Valaboju: Yes. Lots of coding.
+
+28
+00:01:40.990 --> 00:01:41.930
+Divya Sai Sukanya Indala: It seems.
+
+29
+00:01:42.090 --> 00:01:47.219
+Shiva Kumar Chary Valaboju: Yeah, I think so, and we need to do some Ramsey County extension, he gave.
+
+30
+00:01:47.600 --> 00:01:59.239
+Shiva Kumar Chary Valaboju: Like, from the gathered data, yeah, so the data sources we will gather, right? So we need to compare that from the data he gave. I think so.
+
+31
+00:02:00.490 --> 00:02:01.050
+Divya Sai Sukanya Indala: Okay.
+
+32
+00:02:01.050 --> 00:02:20.249
+Shiva Kumar Chary Valaboju: So the data set he gave, from that, we need to find some external data sets, and we need to compare them, the dataset the professor gave, and the dataset we get from the sources. We need to compare them, and we need to document the challenges and limitations.
+
+33
+00:02:20.490 --> 00:02:21.970
+Divya Sai Sukanya Indala: Yes, yes, yeah.
+
+34
+00:02:21.970 --> 00:02:25.310
+Shiva Kumar Chary Valaboju: Yeah, so I think we had a lot of things to do.
+
+35
+00:02:25.510 --> 00:02:31.580
+Shiva Kumar Chary Valaboju: So today, I will, get back to those datas, and I will upload it into the GitHub.
+
+36
+00:02:31.760 --> 00:02:40.079
+Shiva Kumar Chary Valaboju: So, by the end of today, write down your code, and I'll write down my code, and we'll figure it out in the next meeting.
+
+37
+00:02:40.320 --> 00:02:43.919
+Divya Sai Sukanya Indala: Yes, yes, we'll do that. So, yeah.
+
+38
+00:02:44.490 --> 00:02:50.620
+Divya Sai Sukanya Indala: So, like, where can we find, like, we have to look for the data sets, like, in Kaggle, is it fine?
+
+39
+00:02:50.930 --> 00:02:55.109
+Shiva Kumar Chary Valaboju: I think so we didn't… we can't find it in Kagil. He gave some, URLs
+
+40
+00:02:55.530 --> 00:03:03.469
+Shiva Kumar Chary Valaboju: I think we need to… Oh, okay. Yeah, we need to go through that URL, and we need to search it in Google. I think we'll figure it out, we'll see.
+
+41
+00:03:03.790 --> 00:03:04.560
+Divya Sai Sukanya Indala: Okay.
+
+42
+00:03:04.740 --> 00:03:11.770
+Shiva Kumar Chary Valaboju: Yeah, so, did you know we need to do project, presentation for this project, or the fifth project?
+
+43
+00:03:12.210 --> 00:03:12.910
+Divya Sai Sukanya Indala: Oh.
+
+44
+00:03:13.600 --> 00:03:16.220
+Divya Sai Sukanya Indala: even I'm confused about that, like…
+
+45
+00:03:16.220 --> 00:03:18.790
+Shiva Kumar Chary Valaboju: So, do you wanna text to the professor, or…
+
+46
+00:03:18.790 --> 00:03:21.089
+Divya Sai Sukanya Indala: Yeah, I will do that tomorrow, yeah.
+
+47
+00:03:21.090 --> 00:03:23.629
+Shiva Kumar Chary Valaboju: Yeah, we need to give a presentation on Thursday, right? So…
+
+48
+00:03:23.630 --> 00:03:30.639
+Divya Sai Sukanya Indala: Yes, yes, I'll do it tomorrow, I'll mail him, and also I have some doubts in exam as well, so I'll ask him tomorrow.
+
+49
+00:03:30.810 --> 00:03:44.340
+Shiva Kumar Chary Valaboju: Yeah, so because, I think so, if you, like, remember, for the group project 2, he gave us an individual project assessment, and he asked the presentation for Module 2.
+
+50
+00:03:44.720 --> 00:03:45.400
+Divya Sai Sukanya Indala: Yes.
+
+51
+00:03:45.930 --> 00:03:52.639
+Shiva Kumar Chary Valaboju: And I think so. We see the same right now for the Project 4. We have an individual
+
+52
+00:03:53.000 --> 00:03:56.380
+Shiva Kumar Chary Valaboju: Assessment for Project 4 or Project 5?
+
+53
+00:03:56.950 --> 00:04:01.019
+Shiva Kumar Chary Valaboju: I think so we don't have anything for… yeah, we have Individual for Project 5.
+
+54
+00:04:01.240 --> 00:04:05.240
+Shiva Kumar Chary Valaboju: I think so, he's asking for maybe 5 and 7.
+
+55
+00:04:05.240 --> 00:04:07.809
+Divya Sai Sukanya Indala: Maybe… yeah, maybe 5 and 7, yes.
+
+56
+00:04:07.810 --> 00:04:11.460
+Shiva Kumar Chary Valaboju: Yeah, so, let's get a confirmation from him, and
+
+57
+00:04:11.710 --> 00:04:12.290
+Divya Sai Sukanya Indala: Hmm.
+
+58
+00:04:12.290 --> 00:04:12.770
+Shiva Kumar Chary Valaboju: Joe, I'm…
+
+59
+00:04:12.770 --> 00:04:15.210
+Divya Sai Sukanya Indala: And then we will… we will do the PPTS.
+
+60
+00:04:15.210 --> 00:04:16.929
+Shiva Kumar Chary Valaboju: Yeah, we then go ahead for the presentation.
+
+61
+00:04:16.930 --> 00:04:18.929
+Divya Sai Sukanya Indala: I'll mail him tomorrow, yeah.
+
+62
+00:04:18.930 --> 00:04:21.680
+Shiva Kumar Chary Valaboju: Yeah, yeah, so that's all from now.
+
+63
+00:04:21.680 --> 00:04:30.930
+Divya Sai Sukanya Indala: Yes, so today we're gonna work on our coding, and by the night, just make sure to upload the dataset, and also try to find the dataset.
+
+64
+00:04:31.200 --> 00:04:31.860
+Shiva Kumar Chary Valaboju: Yeah.
+
+65
+00:04:31.860 --> 00:04:33.000
+Divya Sai Sukanya Indala: Yeah, okay, then.
+
+66
+00:04:33.000 --> 00:04:37.249
+Shiva Kumar Chary Valaboju: So I have, gave an invitation in GitHub and the Google Doc, did you have a look at it?
+
+67
+00:04:37.250 --> 00:04:40.430
+Divya Sai Sukanya Indala: Yeah, yeah, I did. I accepted it, yes, yeah.
+
+68
+00:04:40.910 --> 00:04:46.059
+Shiva Kumar Chary Valaboju: Yeah, so that's it for right now, so we'll figure out a thing later.
+
+69
+00:04:46.360 --> 00:04:47.140
+Divya Sai Sukanya Indala: Okay.
+
+70
+00:04:47.630 --> 00:04:48.730
+Divya Sai Sukanya Indala: Okay, then.
+
+71
+00:04:48.960 --> 00:04:49.440
+Shiva Kumar Chary Valaboju: Okay, Divya.
+
+72
+00:04:49.440 --> 00:04:49.990
+Divya Sai Sukanya Indala: My goodness.
+
+73
+00:04:49.990 --> 00:04:50.839
+Shiva Kumar Chary Valaboju: By the night.
+
+74
+00:04:51.290 --> 00:04:52.050
+Divya Sai Sukanya Indala: Bye.
+
