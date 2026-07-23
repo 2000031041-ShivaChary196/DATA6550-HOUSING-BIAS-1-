@@ -1,0 +1,511 @@
+
+WEBVTT
+
+1
+00:00:01.970 --> 00:00:03.849
+Shiva Kumar Chary Valaboju: Hi, Divya, how are you?
+
+2
+00:00:04.780 --> 00:00:07.280
+Divya Sai Sukanya Indala: Hi, how are you? I'm doing good, how are you?
+
+3
+00:00:07.500 --> 00:00:12.340
+Shiva Kumar Chary Valaboju: Yeah, me also doing good, so… Did you… Daniel Cole?
+
+4
+00:00:13.000 --> 00:00:19.340
+Divya Sai Sukanya Indala: Yeah, yeah, yeah, I did. But I haven't still uploaded… I haven't uploaded it, but I did to this manager, okay?
+
+5
+00:00:19.650 --> 00:00:25.140
+Shiva Kumar Chary Valaboju: Yeah, no problem, take your time, so… I have done my code, and I also uploaded it, have a look at it.
+
+6
+00:00:25.140 --> 00:00:26.510
+Divya Sai Sukanya Indala: Yeah, yeah, I saw there.
+
+7
+00:00:27.290 --> 00:00:34.320
+Shiva Kumar Chary Valaboju: Yeah, so, let me just go through the code that I've done. Meanwhile, you can upload the dataset, okay?
+
+8
+00:00:35.670 --> 00:00:49.199
+Shiva Kumar Chary Valaboju: Yeah, so… as we have discussed last week about the, project, you know, we have one dataset, and I have found two datasets I have uploaded into GitHub. Those are,
+
+9
+00:00:49.530 --> 00:00:56.769
+Shiva Kumar Chary Valaboju: Covenience and ramseycountry.csv and, county27123.csv, which I have got from the
+
+10
+00:00:56.960 --> 00:01:01.080
+Shiva Kumar Chary Valaboju: resources Professor Gabe. Did you have a look at that?
+
+11
+00:01:01.290 --> 00:01:04.220
+Divya Sai Sukanya Indala: Yeah, yeah, I did. I used it as well, yeah.
+
+12
+00:01:04.220 --> 00:01:05.400
+Shiva Kumar Chary Valaboju: How did you use that, so…
+
+13
+00:01:05.400 --> 00:01:05.760
+Divya Sai Sukanya Indala: Yes, sir.
+
+14
+00:01:05.760 --> 00:01:14.790
+Shiva Kumar Chary Valaboju: So it's a… we are gonna do two types of biases in the project, you know, data bias and algorithm bias. So, when it comes to the historical context, you know.
+
+15
+00:01:14.900 --> 00:01:30.869
+Shiva Kumar Chary Valaboju: We have racial convenience and wriggling, the GI Bill and the submenuan Exclusion, Neighborhoods, Faith Housing Act. So, basically, the data set the professor gave is, the community, related data set.
+
+16
+00:01:31.280 --> 00:01:38.879
+Shiva Kumar Chary Valaboju: in a mortgage, you know, right? Like, people buying the houses on the data set, so that's what the data we have, and I have…
+
+17
+00:01:39.120 --> 00:01:41.840
+Shiva Kumar Chary Valaboju: written some context that I have got from.
+
+18
+00:01:42.030 --> 00:01:50.220
+Shiva Kumar Chary Valaboju: Soap… First, I have done EDA analysis, getting the data sets, getting the columns, and we have, like,
+
+19
+00:01:50.380 --> 00:01:55.130
+Shiva Kumar Chary Valaboju: 100,000 columns and, rows and 14 columns.
+
+20
+00:01:55.500 --> 00:02:05.129
+Shiva Kumar Chary Valaboju: So we have, activity years, census track, derived race, action taken, loan amount, property value, etc, etc, column names.
+
+21
+00:02:05.400 --> 00:02:11.859
+Shiva Kumar Chary Valaboju: And, so, after cleaning the dataset…
+
+22
+00:02:12.080 --> 00:02:15.070
+Shiva Kumar Chary Valaboju: I have done a data bias analysis.
+
+23
+00:02:15.510 --> 00:02:24.049
+Shiva Kumar Chary Valaboju: So, from that, I have got to know that, property values are 40K higher.
+
+24
+00:02:24.410 --> 00:02:30.189
+Shiva Kumar Chary Valaboju: In, Like, higher in convenient tracks.
+
+25
+00:02:30.360 --> 00:02:32.149
+Shiva Kumar Chary Valaboju: That means,
+
+26
+00:02:33.820 --> 00:02:47.780
+Shiva Kumar Chary Valaboju: non-convenient people are paying, like, 40K more than the convenient people, like, the difference between the property owners and non-property owners, that's what the data buyers have done, and I have some
+
+27
+00:02:47.900 --> 00:02:55.340
+Shiva Kumar Chary Valaboju: Property value analysis, some graphs, and etc. Minority population.
+
+28
+00:02:55.610 --> 00:02:59.470
+Shiva Kumar Chary Valaboju: And, median income by convenient density.
+
+29
+00:02:59.870 --> 00:03:01.490
+Shiva Kumar Chary Valaboju: And I have done…
+
+30
+00:03:02.350 --> 00:03:08.759
+Shiva Kumar Chary Valaboju: These are all in the data bias analysis, and when it comes to the algorithm bias analysis.
+
+31
+00:03:09.050 --> 00:03:17.680
+Shiva Kumar Chary Valaboju: Have got to know that, the system has produced racial unequal outcomes.
+
+32
+00:03:17.910 --> 00:03:19.010
+Shiva Kumar Chary Valaboju: even…
+
+33
+00:03:19.220 --> 00:03:38.919
+Shiva Kumar Chary Valaboju: we, like, basically based on the race. So that's what, like, black people are gonna pay, like, higher amounts for the, rents and everything, and the white people are, like, paying less amount. And that's what the, unequal thing the algorithm gave.
+
+34
+00:03:39.080 --> 00:03:44.459
+Shiva Kumar Chary Valaboju: So, for that, I have done an approval rate by raise and convenience status
+
+35
+00:03:44.720 --> 00:03:59.729
+Shiva Kumar Chary Valaboju: And I have done interest ratio distribution by convenient status, and approval rate by convenient density tire. These are all the algorithm biases I have found, and after that, I have done proxy variable analysis.
+
+36
+00:03:59.980 --> 00:04:13.489
+Shiva Kumar Chary Valaboju: Which means what drives mortgage approval? Like, which property, which values considered for the mortgage approval, have done. Then after that, our professor asked an extension.
+
+37
+00:04:13.560 --> 00:04:26.120
+Shiva Kumar Chary Valaboju: like, additional information about Ramsey County Extension. So, I have got these two datasets that I have mentioned. So, I have done the same ED analysis that I have done, to the first dataset.
+
+38
+00:04:26.200 --> 00:04:33.029
+Shiva Kumar Chary Valaboju: And have done the same for these two datasets, and have made a comparison, then…
+
+39
+00:04:33.390 --> 00:04:43.799
+Shiva Kumar Chary Valaboju: You can see over there, we have some… I have some plots for the Ramsey County, and house, Covenant by decade and Covenant by city.
+
+40
+00:04:43.920 --> 00:04:51.340
+Shiva Kumar Chary Valaboju: Then after that, I have made a comparison to those analyses, which you can see from Figure 10.
+
+41
+00:04:52.460 --> 00:04:55.399
+Shiva Kumar Chary Valaboju: Yeah, so I have done the sames, and
+
+42
+00:04:55.950 --> 00:05:05.519
+Shiva Kumar Chary Valaboju: You can see all this, and the key findings I've done are, in database analysis, the property values.
+
+43
+00:05:05.630 --> 00:05:19.010
+Shiva Kumar Chary Valaboju: which are, like, convenient people are paying, like, $355K, and the non-convenient paying are $315K, which is, like, 40K lower in medium, and 30K… 365K higher.
+
+44
+00:05:19.400 --> 00:05:26.009
+Shiva Kumar Chary Valaboju: like, the difference for the property values and, you know, the neighborhood, populations that I said.
+
+45
+00:05:26.440 --> 00:05:32.250
+Shiva Kumar Chary Valaboju: Like, convenient people are 30.4%, non-convenient people are 21.9 percentage.
+
+46
+00:05:32.380 --> 00:05:37.490
+Shiva Kumar Chary Valaboju: And the algorithm biases, as I said, racial bias.
+
+47
+00:05:37.840 --> 00:05:41.570
+Shiva Kumar Chary Valaboju: And black-white approvals, interest rate disparity.
+
+48
+00:05:41.690 --> 00:05:46.379
+Shiva Kumar Chary Valaboju: And, I have used logistic regression for the algorithm.
+
+49
+00:05:46.580 --> 00:05:55.180
+Shiva Kumar Chary Valaboju: Then, in the Ramsey County, I've got, convenient history, and the Ramsey Leading Analysis, so…
+
+50
+00:05:56.280 --> 00:06:00.740
+Shiva Kumar Chary Valaboju: After that, I have done mitigation strategies, like, to address
+
+51
+00:06:00.870 --> 00:06:04.810
+Shiva Kumar Chary Valaboju: Some things to, get these things done.
+
+52
+00:06:04.950 --> 00:06:13.239
+Shiva Kumar Chary Valaboju: For uprisal reformance problem, CRA re-enishment incentives, audit neighborhood.
+
+53
+00:06:13.570 --> 00:06:26.290
+Shiva Kumar Chary Valaboju: Yeah, for the algorithm, we need a counter-racial fairness testing and dispract impact monitoring. So if we do those, I think the algorithm, won't do those biases.
+
+54
+00:06:26.790 --> 00:06:32.420
+Shiva Kumar Chary Valaboju: So, after… Merging these all things, I have made one more graph.
+
+55
+00:06:32.820 --> 00:06:36.510
+Shiva Kumar Chary Valaboju: For the mitigation strategies by various types, and…
+
+56
+00:06:36.890 --> 00:06:40.430
+Shiva Kumar Chary Valaboju: That's what, after that, I have some limitations and future work.
+
+57
+00:06:40.640 --> 00:06:45.820
+Shiva Kumar Chary Valaboju: And the conclusion I have done at the last of my code. Yeah, that's it, my code.
+
+58
+00:06:50.030 --> 00:06:53.620
+Divya Sai Sukanya Indala: Okay, it looks like a very big girl.
+
+59
+00:06:53.900 --> 00:06:56.449
+Shiva Kumar Chary Valaboju: Yeah, that's what he asked for, so…
+
+60
+00:06:56.670 --> 00:06:59.250
+Divya Sai Sukanya Indala: Hmm, yeah. Okay.
+
+61
+00:06:59.910 --> 00:07:02.809
+Divya Sai Sukanya Indala: So… Can I tell mine?
+
+62
+00:07:03.250 --> 00:07:04.549
+Shiva Kumar Chary Valaboju: Yeah, go ahead, Divya.
+
+63
+00:07:04.550 --> 00:07:11.190
+Divya Sai Sukanya Indala: Yes, yeah. So, first, I started with, downloading the county dataset.
+
+64
+00:07:11.350 --> 00:07:15.900
+Divya Sai Sukanya Indala: And I just upload the data, explode the data, like,
+
+65
+00:07:16.560 --> 00:07:36.149
+Divya Sai Sukanya Indala: I look into our variables, like loan amount, property value, income, covenant density, interest rate. So, I thought these, will help me understand, like, which variables we could use to analyze buyers. So, I did some, I mean, I look after that variables, like, there are,
+
+66
+00:07:36.310 --> 00:07:43.549
+Divya Sai Sukanya Indala: that are present in this dataset, so… and also, I created some visualization for Inapan County.
+
+67
+00:07:43.630 --> 00:07:58.999
+Divya Sai Sukanya Indala: like, analyzer, relationships in… between a property value versus covenant density, and minor population versus property value. Covenant density was income, loan approval rate by covenant density.
+
+68
+00:07:59.000 --> 00:08:05.749
+Divya Sai Sukanya Indala: income was loan approval, interest rate was covalent density and correlation. And also, at last, I just…
+
+69
+00:08:05.750 --> 00:08:22.160
+Divya Sai Sukanya Indala: created a correlation heatmap for everything. So, all these graphs, I think, because of all these graphs, I thought it will help me to find and understand both data bias and algorithmic bias, like, what should we have to do? So…
+
+70
+00:08:22.220 --> 00:08:41.459
+Divya Sai Sukanya Indala: I repeated a similar analysis for Ramsey County as well. So, by using the EDR process, like, I created some kind of visualization, like, that includes the property value, and coin and density, income, loan approval, and interest rate, and correlation heat map.
+
+71
+00:08:41.650 --> 00:08:46.580
+Divya Sai Sukanya Indala: So, these analyses are…
+
+72
+00:08:50.310 --> 00:08:51.800
+Divya Sai Sukanya Indala: Maybe… Okay.
+
+73
+00:08:51.910 --> 00:09:04.519
+Divya Sai Sukanya Indala: these analysis for Ramsey County just keep me to analyze and consistent across both counties of NFL and Ramsey. And also, I compared both counties as well. So,
+
+74
+00:09:05.510 --> 00:09:12.179
+Divya Sai Sukanya Indala: I compared some metrics, like average loan approval rate, average income, and average property value.
+
+75
+00:09:16.880 --> 00:09:35.220
+Divya Sai Sukanya Indala: I mean, yeah, average property value, so… and I also created the comparisons, comparison chart, so we can discuss the difference between NFL and Ramsey in our report and presentation. So, like, I got for that, so, in average property value.
+
+76
+00:09:36.020 --> 00:09:38.590
+Divya Sai Sukanya Indala: Ramsha is, like, abort
+
+77
+00:09:38.700 --> 00:09:56.920
+Divya Sai Sukanya Indala: 149 is bigger than, 149, is, income, like, borrowed income is bigger than, Ramsey County, and… but enough and still has a higher loan approval rate, about 66.5% less compared to Ramsey, about, like, 58.1% is.
+
+78
+00:09:56.920 --> 00:10:02.519
+Divya Sai Sukanya Indala: So, like, these analysis suggest me that, then,
+
+79
+00:10:02.640 --> 00:10:09.730
+Divya Sai Sukanya Indala: A lot of factors are influencing the income, in what is approval outcomes.
+
+80
+00:10:12.040 --> 00:10:19.240
+Divya Sai Sukanya Indala: And, yeah, before that, I created, Some grabs for,
+
+81
+00:10:21.380 --> 00:10:26.130
+Divya Sai Sukanya Indala: algorithmic bias… bias for Ramsey, and also…
+
+82
+00:10:30.030 --> 00:10:31.450
+Divya Sai Sukanya Indala: I'm in a fan.
+
+83
+00:10:36.130 --> 00:10:38.320
+Divya Sai Sukanya Indala: Yes,
+
+84
+00:10:38.710 --> 00:10:50.499
+Divya Sai Sukanya Indala: So, I found that, in… out of all the results, I got results, like, in data bias findings, I found the historical component density appears to be.
+
+85
+00:10:50.500 --> 00:11:15.490
+Divya Sai Sukanya Indala: Like, associated with difference in property values. Like, it suggests that past housing discrimination may still influence today's housing market. About… it depends upon average income, or, something about the surroundings. Yeah, still, it's affecting the today's housing market as well. And also, neighborhoods with higher covenant density may also differ in democracy.
+
+86
+00:11:15.490 --> 00:11:30.570
+Divya Sai Sukanya Indala: traffic and economic characteristics. So, the historical, I mean, policies also are included in… including in our today's housing market, because maybe I thought that historical policies are very… had a very long-term effects.
+
+87
+00:11:30.710 --> 00:11:43.999
+Divya Sai Sukanya Indala: And also, all these patterns, like what I did, in a housing of NFL and Ramsey, has the same, I mean, suggests that, historical discrimination is reflected in modern housing data.
+
+88
+00:11:44.260 --> 00:12:02.900
+Divya Sai Sukanya Indala: Like, these… I think this is the example for a data bias. So, in algorithmic bias, I've found that, so, mortgage approval patterns are across neighborhood, and also socioeconomic characteristics. So, if variables, like, property value.
+
+89
+00:12:02.900 --> 00:12:13.499
+Divya Sai Sukanya Indala: or neighborhood characteristics, or use it in lending models. So, they may act as a proxy variables for historical discrimination. So, yeah, I got that, I mean…
+
+90
+00:12:13.530 --> 00:12:30.239
+Divya Sai Sukanya Indala: I found that, like, as an algorithmic bias, some of the proxy variables, so… and also, I landed… I mean, and also, lending algorithmics do not directly use, race. Relying on historical bias data could produce unequal outcomes.
+
+91
+00:12:30.240 --> 00:12:34.510
+Divya Sai Sukanya Indala: So, demonstrating potential algorithms. So, these all things are, like.
+
+92
+00:12:34.550 --> 00:12:54.159
+Divya Sai Sukanya Indala: just telling me they have some algorithmic barriers in these data sites. So, by comparison, like, as I told, so Indafin and Ramsey, counties, like, similar patterns exist in both locations, and also both, counties show comparable trends.
+
+93
+00:12:54.210 --> 00:12:57.740
+Divya Sai Sukanya Indala: It affects off historical extreme discrimination.
+
+94
+00:12:58.780 --> 00:13:08.210
+Divya Sai Sukanya Indala: And the counties may, reflect the various historical developments, demographics, and lending practices as well.
+
+95
+00:13:08.320 --> 00:13:18.240
+Divya Sai Sukanya Indala: So, I found these things, like, in data bias and algorithmic bias foundings. So, yeah, this is my code, and I did this.
+
+96
+00:13:18.470 --> 00:13:19.629
+Divya Sai Sukanya Indala: They're okay.
+
+97
+00:13:23.170 --> 00:13:25.679
+Shiva Kumar Chary Valaboju: Yep. Looks good. Did you upload it?
+
+98
+00:13:26.430 --> 00:13:34.110
+Divya Sai Sukanya Indala: No, not yet, I just completed it, so I'll do this after complete our meeting, so you can have a look on it.
+
+99
+00:13:34.500 --> 00:13:36.259
+Shiva Kumar Chary Valaboju: Yeah, I can have a look.
+
+100
+00:13:37.480 --> 00:13:40.890
+Shiva Kumar Chary Valaboju: So you're gonna write the final report, or do you want me to do that?
+
+101
+00:13:41.860 --> 00:13:48.079
+Divya Sai Sukanya Indala: Anything is fine for me. Or do you want to write, or can I edit it, like…
+
+102
+00:13:48.690 --> 00:13:49.480
+Divya Sai Sukanya Indala: Yeah, so…
+
+103
+00:13:49.480 --> 00:13:54.809
+Shiva Kumar Chary Valaboju: Yeah, I will write the report and have a look at it on the Google Docs, okay?
+
+104
+00:13:55.890 --> 00:14:01.899
+Shiva Kumar Chary Valaboju: Yeah, so we don't… I think we don't have any presentation for this, so no need of making presentation, I think.
+
+105
+00:14:02.260 --> 00:14:03.130
+Divya Sai Sukanya Indala: Yes.
+
+106
+00:14:03.370 --> 00:14:03.970
+Shiva Kumar Chary Valaboju: Hmm.
+
+107
+00:14:03.970 --> 00:14:11.589
+Divya Sai Sukanya Indala: Even I, I haven't meant for professors, so, are you sure, like, we can't, I mean, we don't need a PPT presentation?
+
+108
+00:14:11.590 --> 00:14:18.229
+Shiva Kumar Chary Valaboju: Let's make presentation for week 5, and we'll make presentation for week 6, like, Module 6.
+
+109
+00:14:18.720 --> 00:14:22.100
+Shiva Kumar Chary Valaboju: So, no problem. Let's leave this presentation.
+
+110
+00:14:24.390 --> 00:14:25.170
+Divya Sai Sukanya Indala: Oh, okay.
+
+111
+00:14:25.510 --> 00:14:28.750
+Shiva Kumar Chary Valaboju: Yeah, let's make for Module 5 and Module 7.
+
+112
+00:14:30.130 --> 00:14:32.469
+Divya Sai Sukanya Indala: Okay, so, like…
+
+113
+00:14:32.740 --> 00:14:41.409
+Divya Sai Sukanya Indala: I'll also help with your, refinal reports, so just to write some of it, and I'll write some of them, and we can edit, okay?
+
+114
+00:14:41.410 --> 00:14:42.580
+Shiva Kumar Chary Valaboju: Very common.
+
+115
+00:14:42.640 --> 00:14:44.080
+Divya Sai Sukanya Indala: Santa, yeah.
+
+116
+00:14:44.600 --> 00:14:50.779
+Shiva Kumar Chary Valaboju: So… next week, we're gonna have a meeting for Module 5, so be ready.
+
+117
+00:14:52.360 --> 00:14:53.400
+Divya Sai Sukanya Indala: Oh, yeah.
+
+118
+00:14:54.540 --> 00:15:00.189
+Divya Sai Sukanya Indala: Right, that should be… Did you look the Model 5 as well? Yeah.
+
+119
+00:15:00.670 --> 00:15:02.999
+Divya Sai Sukanya Indala: Muted, okay, keep going.
+
+120
+00:15:04.310 --> 00:15:08.140
+Shiva Kumar Chary Valaboju: I think it's only… it's easy. No problem, we can… we can make it.
+
+121
+00:15:08.410 --> 00:15:09.440
+Divya Sai Sukanya Indala: Okay.
+
+122
+00:15:10.870 --> 00:15:12.680
+Divya Sai Sukanya Indala: Okay then, Shiva.
+
+123
+00:15:13.220 --> 00:15:17.839
+Shiva Kumar Chary Valaboju: Yeah, okay, Divya, then, like… If you have any questions, just let me know.
+
+124
+00:15:18.430 --> 00:15:19.549
+Divya Sai Sukanya Indala: Hmm, yeah, I am.
+
+125
+00:15:19.710 --> 00:15:20.680
+Divya Sai Sukanya Indala: Okay.
+
+126
+00:15:21.140 --> 00:15:23.470
+Shiva Kumar Chary Valaboju: Bye. Thank you. Good night.
+
+127
+00:15:23.960 --> 00:15:25.060
+Divya Sai Sukanya Indala: Good night.
+
